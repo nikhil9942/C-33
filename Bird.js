@@ -7,6 +7,7 @@ class Bird extends BaseClass {
   }
 
   display() {
+    //this.body.vertices(bird.body,{x:0,y:0},{x:1200,y:400})
     //this.body.position.x = mouseX;
     //this.body.position.y = mouseY;
 
